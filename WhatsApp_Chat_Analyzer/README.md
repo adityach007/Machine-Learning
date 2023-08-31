@@ -29,5 +29,7 @@ Analyze your WhatsApp chat conversations to gain insights into your messaging pa
    git clone https://github.com/Adityach007/WhatsApp_Chat_Analyzer.git
    cd Whatsapp_Chat_Analyzer
 
-   
+### Install the required dependencies:
+Install the required dependencies:   
+pip install -r requirements.txt
 
